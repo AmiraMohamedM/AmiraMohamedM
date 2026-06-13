@@ -8,17 +8,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmiraMohamedM&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiraMohamedM&theme=tokyonight" />
-</p>
-
----
-
 ### 📌 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraMohamedM&layout=compact&theme=tokyonight" />
